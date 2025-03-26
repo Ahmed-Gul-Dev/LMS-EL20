@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "860686246121",
+    "firebase_url": "https://homeautomation-67727-default-rtdb.firebaseio.com",
+    "project_id": "homeautomation-67727",
+    "storage_bucket": "homeautomation-67727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860686246121:android:572edefd95701795d61078",
+        "android_client_info": {
+          "package_name": "com.example.energymonitorexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860686246121-0mu6cpooua2pj8g28qtj0essscbou7nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJbM60K1J3SW1rOeuyz1FZhEKfwMTqJnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860686246121-0mu6cpooua2pj8g28qtj0essscbou7nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860686246121:android:aac2eeaf49094c0dd61078",
+        "android_client_info": {
+          "package_name": "com.example.lms_21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860686246121-0mu6cpooua2pj8g28qtj0essscbou7nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJbM60K1J3SW1rOeuyz1FZhEKfwMTqJnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860686246121-0mu6cpooua2pj8g28qtj0essscbou7nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
